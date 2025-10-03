@@ -6,8 +6,9 @@
          "describe": "This is a test project.I will add some new project on my blog.",
          "author": "Resornesy",
          "date": "2025-10-03",
-         "license": null,
-         "url": null,
+         "license": "Apache license 2",
+         "url": "https://github.com",
+         "download": null,
          "language": ["HTML5","CSS3","JavaScript","Angular"]
      }
   }
