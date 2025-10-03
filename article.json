@@ -1,7 +1,7 @@
 {
   "article_status": true,
   "article": {
-    "test": {
+    "story": {
       "url": "https://raw.githubusercontent.com/Resornesy/blog-api/main/test.md",
       "author": "Resornesy",
       "date": "2025-10-03",
